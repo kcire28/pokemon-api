@@ -71,3 +71,9 @@ npm test
   **Parameters**: `trainerId` (path parameter) – The ID of the trainer.  
   **Body**: The ID of the Pokémon to be removed.
 
+
+
+## Swagger Documentation
+You can access the API documentation using Swagger by navigating to the following URL:
+
+http://localhost:5000/api-docs/#/
